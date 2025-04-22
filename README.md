@@ -27,7 +27,7 @@ Welcome to the **Photography Website** – a visually rich platform designed to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/photography-website.git
+   git clone https://github.com/lyonHunchoNganga/photography-website.git
    cd photography-website
    ```
 
