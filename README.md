@@ -3,7 +3,7 @@
 
 # 📸 Photography Website
 
-Welcome to the **Photography Website** – a visually rich platform designed to showcase stunning photographs, creative portfolios, and inspire storytelling through the lens. Whether you're a professional photographer, hobbyist, or admirer of visual art, this site brings photography to life.
+Welcome to the **Photography Website** – a visually rich platform designed to showcase stunning photographs,  create portfolios, and inspire storytelling through the lens. Whether you're a professional photographer, hobbyist, or admirer of visual art, this site brings photography to life.
 
 ## 🌟 Features
 
@@ -27,7 +27,7 @@ Welcome to the **Photography Website** – a visually rich platform designed to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lyonHunchoNganga/photography-website.git
+   git clone https://github.com/LyonHunchoNganga/photography-website.git
    cd photography-website
    ```
 
